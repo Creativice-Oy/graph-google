@@ -41,7 +41,7 @@
   },
   "dependencies": {
     "@jupiterone/vendor-stack": "^2.0.0",
-    "gaxios": "^4.3.2",
+    "gaxios": "^4.3.3",
     "googleapis": "^92.0.0"
   }
 }
